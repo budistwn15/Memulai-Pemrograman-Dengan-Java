@@ -10,5 +10,7 @@ package com.dicoding.javafundamental.basic.kendaraan;
  * @author Budi Setiawan
  */
 public class Motor {
-    
+    public static void jumlahBan(){
+        System.out.println("Ban motor ada 2");
+    }
 }
