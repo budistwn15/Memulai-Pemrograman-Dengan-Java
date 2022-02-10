@@ -10,7 +10,7 @@ package com.dicoding.javafundamental.basic.musik;
  * @author Budi Setiawan
  */
 public class Gitar {
-    public static void main(String[] args) {
-        System.out.println("Jreng...");
+    public static void Bunyi(){
+        System.out.println("Jreng ...");
     }
 }
